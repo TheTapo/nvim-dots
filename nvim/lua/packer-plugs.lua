@@ -6,7 +6,7 @@ use {'romgrk/barbar.nvim', wants = 'nvim-web-devicons'}
 use { 'nvim-lualine/lualine.nvim', requires = { 'kyazdani42/nvim-web-devicons', opt = true }}
 use { "catppuccin/nvim", as = "catppuccin" }
 use "lukas-reineke/indent-blankline.nvim"
-use 'ms-jpq/chadtree'
+nvim-tree/nvim-tree.lua
 use {'nvim-treesitter/nvim-treesitter',run = ':TSUpdate'}
 use 'neovim/nvim-lspconfig'
 use {
