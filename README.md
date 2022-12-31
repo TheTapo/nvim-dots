@@ -12,7 +12,7 @@ git clone https://github.com/TheTapo/nvim-dots
 cd nvim-dots
 cp nvim ~/.config
 ```
-#### Windows
+### For Windows
 - Clone this repository
 - Go to the 'nvim-dots' folder
 - Move the 'nvim' folder to %APPDATA%\local
