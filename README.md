@@ -1,5 +1,7 @@
 # nvim-dots
 my Neovim config files 
+# Preview
+![screenshot](assets/screenshot.png) 
 ## Installation
 ### Requirements
 - Neovim
