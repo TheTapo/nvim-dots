@@ -5,6 +5,7 @@ require('lualine-config')
 require('keybinds')
 require('rich')
 require('startup-config')
+require('nvimtree-config')
 
 -- ChatGPT wrote this
 local function start_command()
