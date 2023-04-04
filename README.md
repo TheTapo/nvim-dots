@@ -12,7 +12,7 @@ my Neovim config files
 ```
 git clone https://github.com/TheTapo/nvim-dots
 cd nvim-dots
-cp nvim ~/.config
+cp -r nvim ~/.config
 ```
 ### For Windows
 - Clone this repository
