@@ -19,7 +19,7 @@ cp -r nvim ~/.config
 - Clone this repository
 - Go to the 'nvim-dots' folder
 - Move the 'nvim' folder to %APPDATA%\local
-
+## After installing the nvim configs 
 After that in neovim run 
 `:PackerSync`
 `:COQdeps`
